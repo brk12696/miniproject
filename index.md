@@ -13,3 +13,6 @@ In my spare time I enjoy going on runs to stay active. I have been running track
 This web programming class is the final class I need for my Bachelor's degree. I am currently applying for jobs and am hoping to land an entry level position as a software engineer, software developer, or application developer. I am also looking for work not in NJ but primarily down south in states such as Florida, Texas, and South Carolina. 
 
 ### Mid Term Mini project  - (Adv) Web Programming Course
+
+[Page 2](educationemployment.md)
+
