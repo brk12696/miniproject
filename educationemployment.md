@@ -39,3 +39,6 @@ Aldi - 2019-Present - Cashier, Associate, Stocker
 #### Job Duties
 
 Ringing up customers, stocking shelves, cleaning, was offered a manager position but turned it down
+
+[Page 3](skills.md)
+
