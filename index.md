@@ -1,5 +1,4 @@
 # Brandon Krupinski 
-[Page 2](educationemployment.md)
 
 ## Personal Information
 
