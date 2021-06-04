@@ -14,7 +14,5 @@ This web programming class is the final class I need for my Bachelor's degree. I
 
 ### Mid Term Mini project  - (Adv) Web Programming Course
 
-[Page 2](educationemployment.md)
-
 <a href="./educationemployment">Go to next page</a>
 
