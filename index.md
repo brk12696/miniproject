@@ -16,3 +16,5 @@ This web programming class is the final class I need for my Bachelor's degree. I
 
 [Page 2](educationemployment.md)
 
+<a href="./educationemployment">Go to next page</a>
+
